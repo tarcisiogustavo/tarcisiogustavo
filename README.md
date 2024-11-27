@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tarcisiogustavo&label=Profile%20views&color=0e75b6&style=flat" alt="tarcisiogustavo" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarcisiogustavo" alt="tarcisiogustavo" /></a> </p>
 <!-- Languages and Tools -->
-<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
+<h2 align="center" style="color: #44AEFB">⚙️ Languages and Tools</h2>
 <div align="center" style="display:block;">
 <div align="center" style="display:block;">
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
@@ -61,24 +61,20 @@
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
+<!-- ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
-<!-- Begin Stats Cards -->
-<!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
-<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-<!-- Change the value after ?username= to your GitHub username. -->
+
 <div class="stats" align="center">
 
-<!--![Tarcisio Gustavo GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarcisiogustavo&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20) -->
+![Tarcisio Gustavo GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarcisiogustavo&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20) -->
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tarcisiogustavo&count_private=true&theme=algolia&border_radius=20)
+<!--![GitHub Streak](https://streak-stats.demolab.com?user=tarcisiogustavo&count_private=true&theme=algolia&border_radius=20) -->
 
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisiogustavo&show_icons=true&theme=algolia&border_radius=20) -->
-    
-<!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisiogustavo&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+<div  class="stats" align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tarcisiogustavo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisiogustavo&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
 <!--  End Stats Cards -->
 
 ---
@@ -89,13 +85,12 @@
 <a href="https://www.youtube.com/channel/UCiRmtdNGgUlnpU7OmU4CNpg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucirmtdnggulnpu7omu4cnpg" height="30" width="40" /></a>
 </p>
 <!-- End Footer -->
-<h3 align="left">Support:</h3>
-<div align="left">
+<!-- <h3 align="center">Support:</h3>
+<div align="center">
   <a href="https://twitter.com/arron_on" target="blank">
     <img src="https://img.shields.io/twitter/follow/arron_on?logo=x&style=for-the-badge" alt="arron_on">
   </a>
-  <br>
   <a href="https://www.buymeacoffee.com/Arron0n">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
   </a>
-</div>
+</div> -->
